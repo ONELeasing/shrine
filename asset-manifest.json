@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cpskhonkaen/static/css/main.43947e75.css",
-    "main.js": "/cpskhonkaen/static/js/main.1a7b4df8.js",
-    "static/media/logo.png": "/cpskhonkaen/static/media/logo.7f04cf6a5d4882e26ba2.png",
-    "static/media/Marker.png": "/cpskhonkaen/static/media/Marker.457199d3114db78d82ee.png",
-    "index.html": "/cpskhonkaen/index.html",
-    "main.43947e75.css.map": "/cpskhonkaen/static/css/main.43947e75.css.map",
-    "main.1a7b4df8.js.map": "/cpskhonkaen/static/js/main.1a7b4df8.js.map"
+    "main.css": "/shrine/static/css/main.43947e75.css",
+    "main.js": "/shrine/static/js/main.c6514d77.js",
+    "static/media/logo.png": "/shrine/static/media/logo.7f04cf6a5d4882e26ba2.png",
+    "static/media/Marker.png": "/shrine/static/media/Marker.457199d3114db78d82ee.png",
+    "index.html": "/shrine/index.html",
+    "main.43947e75.css.map": "/shrine/static/css/main.43947e75.css.map",
+    "main.c6514d77.js.map": "/shrine/static/js/main.c6514d77.js.map"
   },
   "entrypoints": [
     "static/css/main.43947e75.css",
-    "static/js/main.1a7b4df8.js"
+    "static/js/main.c6514d77.js"
   ]
 }
