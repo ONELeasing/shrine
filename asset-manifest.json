@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/shrine/static/css/main.43947e75.css",
-    "main.js": "/shrine/static/js/main.79f1cc01.js",
+    "main.js": "/shrine/static/js/main.f832adca.js",
     "static/media/logo.png": "/shrine/static/media/logo.7f04cf6a5d4882e26ba2.png",
     "static/media/Marker.png": "/shrine/static/media/Marker.457199d3114db78d82ee.png",
     "static/media/logo-receipt.png": "/shrine/static/media/logo-receipt.e0c2fe68ec2284b76fb8.png",
     "static/media/qr-line.jpg": "/shrine/static/media/qr-line.13ade3cb09c1733dd2ca.jpg",
     "index.html": "/shrine/index.html",
     "main.43947e75.css.map": "/shrine/static/css/main.43947e75.css.map",
-    "main.79f1cc01.js.map": "/shrine/static/js/main.79f1cc01.js.map"
+    "main.f832adca.js.map": "/shrine/static/js/main.f832adca.js.map"
   },
   "entrypoints": [
     "static/css/main.43947e75.css",
-    "static/js/main.79f1cc01.js"
+    "static/js/main.f832adca.js"
   ]
 }
