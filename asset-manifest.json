@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/shrine/static/css/main.43947e75.css",
-    "main.js": "/shrine/static/js/main.db99257d.js",
+    "main.js": "/shrine/static/js/main.ef6b0610.js",
     "static/media/logo.png": "/shrine/static/media/logo.7f04cf6a5d4882e26ba2.png",
     "static/media/Marker.png": "/shrine/static/media/Marker.457199d3114db78d82ee.png",
     "static/media/qr-line-128.jpg": "/shrine/static/media/qr-line-128.4128f8dcb33f1534ba8f.jpg",
     "index.html": "/shrine/index.html",
     "main.43947e75.css.map": "/shrine/static/css/main.43947e75.css.map",
-    "main.db99257d.js.map": "/shrine/static/js/main.db99257d.js.map"
+    "main.ef6b0610.js.map": "/shrine/static/js/main.ef6b0610.js.map"
   },
   "entrypoints": [
     "static/css/main.43947e75.css",
-    "static/js/main.db99257d.js"
+    "static/js/main.ef6b0610.js"
   ]
 }
