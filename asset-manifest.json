@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/shrine/static/css/main.43947e75.css",
-    "main.js": "/shrine/static/js/main.a34a63b2.js",
+    "main.js": "/shrine/static/js/main.e00f1cfb.js",
     "static/media/logo.png": "/shrine/static/media/logo.7f04cf6a5d4882e26ba2.png",
     "static/media/Marker.png": "/shrine/static/media/Marker.457199d3114db78d82ee.png",
     "static/media/ticket.png": "/shrine/static/media/ticket.26852876ae2f16ec04a4.png",
     "static/media/qr-line-128.jpg": "/shrine/static/media/qr-line-128.4128f8dcb33f1534ba8f.jpg",
     "index.html": "/shrine/index.html",
     "main.43947e75.css.map": "/shrine/static/css/main.43947e75.css.map",
-    "main.a34a63b2.js.map": "/shrine/static/js/main.a34a63b2.js.map"
+    "main.e00f1cfb.js.map": "/shrine/static/js/main.e00f1cfb.js.map"
   },
   "entrypoints": [
     "static/css/main.43947e75.css",
-    "static/js/main.a34a63b2.js"
+    "static/js/main.e00f1cfb.js"
   ]
 }
