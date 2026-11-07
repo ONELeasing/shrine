@@ -1,0 +1,1 @@
+var e=new URL(`logo-receipt-256-D7rwS6hP.png`,import.meta.url).href;export{e as t};
