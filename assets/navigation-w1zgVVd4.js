@@ -1,1 +1,0 @@
-import{Ht as e}from"./ui-Cpuu9DsN.js";var t={name:`navigation`,size:24,node:[[`polygon`,{points:`3 11 22 2 13 21 11 13 3 11`,key:`1ltx0t`}]]};t.node;var n=e(t);export{n as t};
