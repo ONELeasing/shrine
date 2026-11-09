@@ -1,0 +1,1 @@
+var e=`/shrine/assets/logo-receipt-256-D7rwS6hP.png`;export{e as t};
